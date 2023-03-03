@@ -1,0 +1,38 @@
+# colors
+import:
+  - ~/.config/colors-material.yml
+
+# class
+class:
+  instance: Alacritty
+  general: Alacritty
+
+# cursor
+cursor:
+  style: beam
+
+# shell
+shell:
+  program: /usr/bin/fish
+
+# font
+font:
+  normal:
+    family: Comic Mono
+    style: Regular
+  bold:
+    family: Comic Mono
+    style: Bold
+  italic:
+    family: Comic Mono
+    style: Italic
+  bold_italic:
+    family: Comic Mono
+    style: Bold Italic
+  size: 9
+
+window:
+  opacity: 1
+  padding:
+    x: 30
+    y: 20
