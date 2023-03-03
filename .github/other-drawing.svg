@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="500mm"
+   height="500mm"
+   viewBox="0 0 500 500"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="other-drawing.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.36965764"
+     inkscape:cx="867.01847"
+     inkscape:cy="872.42888"
+     inkscape:window-width="1920"
+     inkscape:window-height="1060"
+     inkscape:window-x="0"
+     inkscape:window-y="20"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient957">
+      <stop
+         style="stop-color:#ff68ff;stop-opacity:1;"
+         offset="0"
+         id="stop953" />
+      <stop
+         style="stop-color:#837fa4;stop-opacity:1;"
+         offset="0.49999985"
+         id="stop961" />
+      <stop
+         style="stop-color:#00d74a;stop-opacity:1;"
+         offset="0.9999997"
+         id="stop955" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient957"
+       id="linearGradient959"
+       x1="0.19055176"
+       y1="250"
+       x2="499.80945"
+       y2="250"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="pad" />
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter973"
+       x="-1.4997175"
+       y="-1.5020286"
+       width="4.136875"
+       height="4.08841">
+      <feFlood
+         flood-opacity="0.631373"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood963" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite965" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="200"
+         result="blur"
+         id="feGaussianBlur967" />
+      <feOffset
+         dx="43.2969"
+         dy="43.2989"
+         result="offset"
+         id="feOffset969" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="fbSourceGraphic"
+         id="feComposite971" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix1047" />
+      <feFlood
+         id="feFlood1049"
+         flood-opacity="0.631373"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         in2="fbSourceGraphic"
+         id="feComposite1051"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur1053"
+         in="composite1"
+         stdDeviation="112.203"
+         result="blur" />
+      <feOffset
+         id="feOffset1055"
+         dx="25.3707"
+         dy="-1.1546"
+         result="offset" />
+      <feComposite
+         in2="offset"
+         id="feComposite1057"
+         in="fbSourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="fill:url(#linearGradient959);stroke:none;stroke-width:0.381131;stroke-opacity:1;fill-opacity:1;filter:url(#filter973)"
+       id="path343"
+       cx="250"
+       cy="250"
+       rx="249.80945"
+       ry="249.80943" />
+  </g>
+</svg>
