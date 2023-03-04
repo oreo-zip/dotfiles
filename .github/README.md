@@ -1,6 +1,6 @@
-![**Back to @oreo-zip**](https://github.com/oreo-zip)
+[**Back to @oreo-zip**](https://github.com/oreo-zip)
 
-<h1 align="center"><img src="logo-rice.svg" width=100><br><img src="https://img.shields.io/badge/LUA-blue?style=for-the-badge&logo=lua">    <img src="https://img.shields.io/badge/OPEN%20SOURCE-purple?style=for-the-badge&logo=git">    <img src="https://img.shields.io/github/stars/oreo-zip/dotfiles?color=yellow&label=STARS&logo=Github&style=for-the-badge">    <img src="https://img.shields.io/github/license/oreo-zip/dotfiles?label=LICENSE&logo=gnu&logoColor=white&style=for-the-badge">    <img src="https://img.shields.io/badge/AWESOME%20WM-gray?style=for-the-badge&logo=awesomewm">    <img src="https://img.shields.io/badge/ARCHLINUX-blue?style=for-the-badge&logo=archlinux"></h1>
+<h1 align="center"><img src="logo-rice.svg" width=100><br><img src="https://img.shields.io/badge/LUA-blue?style=for-the-badge&logo=lua">    <img src="https://img.shields.io/badge/OPEN%20SOURCE-purple?style=for-the-badge&logo=git">    <img src="https://img.shields.io/github/stars/oreo-zip/dotfiles?color=yellow&label=STARS&logo=Github&style=for-the-badge">    <img src="https://img.shields.io/github/license/oreo-zip/dotfiles?label=LICENSE&logo=gnu&logoColor=white&style=for-the-badge"></h1>
 
 <p align="center">
   My <b>AwesomeWM and Arch Linux</b> configs!
@@ -19,9 +19,17 @@
 
 <br>
 
-# Hey there
+## <samp>Hey there</samp> <img src="https://img.shields.io/badge/AWESOME%20WM-gray?style=for-the-badge&logo=awesomewm" align="right"> <img src="https://img.shields.io/badge/ARCHLINUX-blue?style=for-the-badge&logo=archlinux" align="right">
 Oh uh, hey? Caught me off guard (I'm prob'ly sleeping)
 
 I heard you were looking for some inspiration for your dots, too! Or maybe just to steal mine.
 
 Btw I won't sue you or anything if you violate this repo's license.
+
+| thing      | software                                                                                  |
+|------------|-------------------------------------------------------------------------------------------|
+| wm         | ![awesome-git](https://awesomewm.org)                                                     |
+| gtk        | ![cutefish-light + awesthetic-dark](https://github.com/saimoomedits/dotfiles/extras/themes) |
+| compositor | ![picom-git](https://github.com/yshui/picom)                                              |
+| browser    | ![firefox](https://firefox.com)                                                             |
+| bar        | ![wibar](https://github.com/awesomeWM/awesome/blob/master/lib/awful/wibar.lua)            |
