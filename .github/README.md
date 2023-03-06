@@ -33,3 +33,19 @@ Btw I won't sue you or anything if you violate this repo's license.
 | compositor | ![picom-git](https://github.com/yshui/picom)                                              |
 | browser    | ![firefox](https://firefox.com)                                                             |
 | bar        | ![wibar](https://github.com/awesomeWM/awesome/blob/master/lib/awful/wibar.lua)            |
+| music      | ![mpd + ncmpcpp](https://www.musicpd.org/)                                                |
+| distro     | ![arch](archlinux.org)                                                                    |
+
+## <samp>Thanks</samp>
+**To all these lovely people:**
+- ![Harry](https://github.com/saimoomedits) - for some code ;)
+- ![Elena](https://github.com/elenapan) - for some inspiration
+- ![Gavin (Me)](https://github.com/oreo-zip) - yes
+- ![Linus](https://github.com/torvalds) - for linux
+
+**To all these services**
+- ![ChatGPT](https://chat.openai.com) - for some other code
+- ![YOU.com](https://you.com) - for code I fed into ChatGPT ;)
+- ![GitHub](https://github.com) - what do you think
+
+***And to my Dad, who reviews my work and finds all the pros and cons.***
