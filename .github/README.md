@@ -55,7 +55,7 @@ cd oreo-dots
 ```
 **3. Backup configs (Optional)**
 ```
-mkdir .backup_config
+mkdir ~/.backup_config
 cp ~/.config/* ~/.backup_config/
 cp ~/.mpd ~/.backup_config/
 cp ~/.xinitrc ~/.backup_config/
