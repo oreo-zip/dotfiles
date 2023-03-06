@@ -1,6 +1,6 @@
 # colors
 import:
-  - ~/.config/colors-material.yml
+  - ~/.config/alacritty/colors-material.yml
 
 # class
 class:
@@ -18,16 +18,16 @@ shell:
 # font
 font:
   normal:
-    family: Comic Mono
+    family: FiraCode NF
     style: Regular
   bold:
-    family: Comic Mono
+    family: FiraCode NF
     style: Bold
   italic:
-    family: Comic Mono
+    family: FiraCode NF
     style: Italic
   bold_italic:
-    family: Comic Mono
+    family: FiraCode NF
     style: Bold Italic
   size: 9
 

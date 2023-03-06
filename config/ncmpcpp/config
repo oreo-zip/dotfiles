@@ -1,0 +1,12 @@
+# files and directorys
+ncmpcpp_directory = "~/.ncmpcpp"
+lyrics_directory = "~/.ncmpcpp/lyrics"
+
+# mpd stuff
+mpd_host = "localhost"
+mpd_port = "6600"
+mpd_music_dir = "~/Music"
+
+# general config
+message_delay_time = 10
+
