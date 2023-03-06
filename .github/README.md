@@ -36,6 +36,15 @@ Btw I won't sue you or anything if you violate this repo's license.
 | music      | ![mpd + ncmpcpp](https://www.musicpd.org/)                                                |
 | distro     | ![arch](archlinux.org)                                                                    |
 
+## <samp>Install & Setup</samp>
+**⚠ FOR USE ON ARCH-BASED ONLY!!! ⚠**
+
+**1. Install packages**
+
+```
+
+```
+
 ## <samp>Thanks</samp>
 **To all these lovely people:**
 - ![Harry](https://github.com/saimoomedits) - for some code ;)
