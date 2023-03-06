@@ -1,89 +1,42 @@
-[**Back to @oreo-zip**](https://github.com/oreo-zip)
+![Back to @oreo-zip](https://github.com/oreo-zip)
 
-<h1 align="center"><img src="logo-rice.svg" width=100><br><img src="https://img.shields.io/badge/LUA-blue?style=for-the-badge&logo=lua">    <img src="https://img.shields.io/badge/OPEN%20SOURCE-purple?style=for-the-badge&logo=git">    <img src="https://img.shields.io/github/stars/oreo-zip/dotfiles?color=yellow&label=STARS&logo=Github&style=for-the-badge">    <img src="https://img.shields.io/github/license/oreo-zip/dotfiles?label=LICENSE&logo=gnu&logoColor=white&style=for-the-badge"></h1>
+<h1 align="center">OREO ZIP's Dots</h1>
+<p align="center">For use of <b>any kind</b>.</p>
 
-<p align="center">
-  My <b>AwesomeWM and Arch Linux</b> configs!
-  <br>
-  Heavily inspired by <b><a href="https://github.com/saimoomedits">saimoomedits</a></b> and his <b><a href="https://github.com/saimoomedits/dotfiles">dots</a></b>!
-</p>
-<div align="center">
-  <b>
-    <a href="https://github.com/oreo-zip/dotfiles#Setup">Setup</a>
-    •
-    <a href="https://github.com/oreo-zip/dotfiles/LICENSE">License</a>
-    •
-    <a href="https://github.com/oreo-zip/dotfiles/issues">Bugs</a>
-  </b>
-</div>
+# Hello there, friend!
+These are my rices! All from different DEs, WMs, and OSes
 
+w/ The GNU GPL-2.0 'cus 3.0 makes no sense
+
+Please feel free to steal any code, I would use GitLab if I didn't want people to steal it. 
+# Rices
+**Rice TL;DR:** Ricing is an old term for making a car look ***really cool and personalized***, and the linux community took it one step farther. To computers. Now we have subreddits, dedicated to ricing, and I will not write their names because a lot of very smart kids may look at this - like me (Yes I'm very young; get over it)
+<h1 align="center">File Trials</h1>
+<p align="center">Yup. The good ol' first trial at files for miles. Rhyming aside, this is my first MAJOR rice. Major in meaning has a GitHub branch and has been in active development for more than three days. WIP</p>
+
+<div align="center">"File Trials" Preview here</div>
+
+# Bug reports
+When reporting bugs, please make sure to use this format
+
+_Title:_
 <br>
+[Rice Name] Issue
 
-## ## ATTENTION: STILL WIP ##
-
-## <samp>Hey there</samp> <img src="https://img.shields.io/badge/AWESOME%20WM-gray?style=for-the-badge&logo=awesomewm" align="right"> <img src="https://img.shields.io/badge/ARCHLINUX-blue?style=for-the-badge&logo=archlinux" align="right">
-Oh uh, hey? Caught me off guard (I'm prob'ly sleeping)
-
-I heard you were looking for some inspiration for your dots, too! Or maybe just to steal mine.
-
-Btw I won't sue you or anything if you violate this repo's license.
-
-| thing      | software                                                                                  |
-|------------|-------------------------------------------------------------------------------------------|
-| wm         | ![awesome-git](https://awesomewm.org)                                                     |
-| gtk        | ![cutefish-light + awesthetic-dark](https://github.com/saimoomedits/dotfiles/extras/themes) |
-| compositor | ![picom-git](https://github.com/yshui/picom)                                              |
-| browser    | ![firefox](https://firefox.com)                                                             |
-| bar        | ![wibar](https://github.com/awesomeWM/awesome/blob/master/lib/awful/wibar.lua)            |
-| music      | ![mpd + ncmpcpp](https://www.musicpd.org/)                                                |
-| distro     | ![arch](archlinux.org)                                                                    |
-
-## <samp>Install & Setup</samp>
-**⚠ FOR USE ON ARCH-BASED ONLY!!! ⚠**
+_Body:_
 <br>
-**Install `yay` before this**
+**Expected Behavior**
+<br>
+Expected Behavior
 
-**1. Update; Install packages**
-```
-yay -Syu
-yay -S xorg xorg-server xorg-apps
-yay -S awesome-git picom-git firefox mpd mpc ncmpcpp mpdris2 noto-fonts-emoji alacritty thunar thunar-archive-plugin file-roller galculator lxappearance light neovim code font-manager fish starship gimp inkscape obsidian rofi libreoffice reflector pulseaudio cava xdg-desktop-portal-gtk feh
-```
-**2. Clone this repo and cd into it**
-```
-cd
-git clone https://github.com/oreo-zip/dotfiles.git oreo-dots
-cd oreo-dots
-```
-**3. Backup configs (Optional)**
-```
-mkdir ~/.backup_config
-cp ~/.config/* ~/.backup_config/
-cp ~/.mpd ~/.backup_config/
-cp ~/.xinitrc ~/.backup_config/
-cp ~/.ncmpcpp ~/.backup_config/
-```
-**4. Make directorys copy files**
-```
-mkdir ~/.config
-mkdir ~/.mpd
-mkdir ~/.ncmpcpp
-cp config/* ~/.config/
-cp extras/mpd/* ~/.mpd/
-cp extras/themes/gtk/* ~/.themes
-cp extras/xinitrc ~/.xinitrc
-```
+**Actual Behavior**
+<br>
+Actual Behavior
 
-## <samp>Thanks</samp>
-**To all these lovely people:**
-- ![Harry](https://github.com/saimoomedits) - for some code ;)
-- ![Elena](https://github.com/elenapan) - for some inspiration
-- ![Gavin (Me)](https://github.com/oreo-zip) - yes
-- ![Linus](https://github.com/torvalds) - for linux
+**Media**
+<br>
+PNG, JPEG, GIF, MP4, or MOV file
 
-**To all these services**
-- ![ChatGPT](https://chat.openai.com) - for some other code
-- ![YOU.com](https://you.com) - for code I fed into ChatGPT ;)
-- ![GitHub](https://github.com) - what do you think
-
-***And to my Dad, who reviews my work and finds all the pros and cons.***
+**Notes**
+<br>
+Other Notes
