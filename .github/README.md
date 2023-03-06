@@ -38,11 +38,38 @@ Btw I won't sue you or anything if you violate this repo's license.
 
 ## <samp>Install & Setup</samp>
 **⚠ FOR USE ON ARCH-BASED ONLY!!! ⚠**
+<br>
+**Install `yay` before this**
 
-**1. Install packages**
-
+**1. Update; Install packages**
 ```
-
+yay -Syu
+yay -S xorg xorg-server xorg-apps
+yay -S awesome-git picom-git firefox mpd mpc ncmpcpp mpdris2 noto-fonts-emoji alacritty thunar thunar-archive-plugin file-roller galculator lxappearance light neovim code font-manager fish starship gimp inkscape obsidian rofi libreoffice reflector pulseaudio cava xdg-desktop-portal-gtk feh
+```
+**2. Clone this repo and cd into it**
+```
+cd
+git clone https://github.com/oreo-zip/dotfiles.git oreo-dots
+cd oreo-dots
+```
+**3. Backup configs (Optional)**
+```
+mkdir .backup_config
+cp ~/.config/* ~/.backup_config/
+cp ~/.mpd ~/.backup_config/
+cp ~/.xinitrc ~/.backup_config/
+cp ~/.ncmpcpp ~/.backup_config/
+```
+**4. Make directorys copy files**
+```
+mkdir ~/.config
+mkdir ~/.mpd
+mkdir ~/.ncmpcpp
+cp config/* ~/.config/
+cp extras/mpd/* ~/.mpd/
+cp extras/themes/gtk/* ~/.themes
+cp extras/xinitrc ~/.xinitrc
 ```
 
 ## <samp>Thanks</samp>
