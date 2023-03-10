@@ -19,7 +19,7 @@
 
 <br>
 
-## ## ATTENTION: STILL WIP ##
+## ATTENTION: STILL WIP
 
 ## <samp>Hey there</samp> <img src="https://img.shields.io/badge/AWESOME%20WM-gray?style=for-the-badge&logo=awesomewm" align="right"> <img src="https://img.shields.io/badge/ARCHLINUX-blue?style=for-the-badge&logo=archlinux" align="right">
 Oh uh, hey? Caught me off guard (I'm prob'ly sleeping)
