@@ -30,7 +30,7 @@ Btw I won't sue you or anything if you violate this repo's license.
 
 | thing      | software                                                                                  |
 |------------|-------------------------------------------------------------------------------------------|
-| wm         | ![awesome-git](https://awesomewm.org)                                                     |
+| wm         | ![awesome](https://awesomewm.org)                                                     |
 | gtk        | ![cutefish-light + awesthetic-dark](https://github.com/saimoomedits/dotfiles/extras/themes) |
 | compositor | ![picom-git](https://github.com/yshui/picom)                                              |
 | browser    | ![firefox](https://firefox.com)                                                             |
@@ -49,7 +49,7 @@ Btw I won't sue you or anything if you violate this repo's license.
 ```
 yay -Syu
 yay -S xorg xorg-server xorg-apps
-yay -S awesome-git picom-git firefox mpd mpc ncmpcpp mpdris2 nerd-fonts-git material-icons-git noto-fonts-emoji alacritty thunar thunar-archive-plugin file-roller galculator lxappearance light neovim code font-manager fish starship gimp inkscape obsidian rofi libreoffice reflector pulseaudio cava xdg-desktop-portal-gtk feh
+yay -S awesome picom-git firefox mpd mpc ncmpcpp mpdris2 nerd-fonts-git material-icons-git noto-fonts-emoji alacritty thunar thunar-archive-plugin file-roller galculator lxappearance light neovim code font-manager fish starship gimp inkscape obsidian rofi libreoffice reflector pulseaudio cava xdg-desktop-portal-gtk feh
 ```
 **2. Clone this repo and cd into it**
 ```
