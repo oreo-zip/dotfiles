@@ -26,6 +26,8 @@ I heard you were looking for some inspiration for your dots, too! Or maybe just 
 
 Btw I won't sue you or anything if you violate this repo's license.
 
+<img align="right" src="preview.png" width=500">
+
 | thing      | software                                                                                  |
 |------------|-------------------------------------------------------------------------------------------|
 | wm         | ![awesome-git](https://awesomewm.org)                                                     |
