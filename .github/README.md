@@ -1,4 +1,4 @@
-![Back to @oreo-zip](https://github.com/oreo-zip)
+[Back to @oreo-zip](https://github.com/oreo-zip)
 
 <h1 align="center">OREO ZIP's Dots</h1>
 <p align="center">For use of <b>any kind</b>.</p>
