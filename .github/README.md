@@ -42,12 +42,14 @@ Btw I won't sue you or anything if you violate this repo's license.
 **⚠ FOR USE ON ARCH-BASED ONLY!!! ⚠**
 <br>
 **Install `yay` before this**
+<br>
+**I _reccomend_ you install and configure `doas` before this**
 
 **1. Update; Install packages**
 ```
 yay -Syu
 yay -S xorg xorg-server xorg-apps
-yay -S awesome-git picom-git firefox mpd mpc ncmpcpp mpdris2 noto-fonts-emoji alacritty thunar thunar-archive-plugin file-roller galculator lxappearance light neovim code font-manager fish starship gimp inkscape obsidian rofi libreoffice reflector pulseaudio cava xdg-desktop-portal-gtk feh
+yay -S awesome-git picom-git firefox mpd mpc ncmpcpp mpdris2 nerd-fonts-git material-icons-git noto-fonts-emoji alacritty thunar thunar-archive-plugin file-roller galculator lxappearance light neovim code font-manager fish starship gimp inkscape obsidian rofi libreoffice reflector pulseaudio cava xdg-desktop-portal-gtk feh
 ```
 **2. Clone this repo and cd into it**
 ```
