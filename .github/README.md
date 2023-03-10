@@ -9,9 +9,7 @@
 </p>
 <div align="center">
   <b>
-    <a href="https://github.com/oreo-zip/dotfiles#Setup">Setup</a>
-    •
-    <a href="https://github.com/oreo-zip/dotfiles/LICENSE">License</a>
+    <a href="https://github.com/oreo-zip/dotfiles/blob/awesome/LICENSE">License</a>
     •
     <a href="https://github.com/oreo-zip/dotfiles/issues">Bugs</a>
   </b>
@@ -38,7 +36,7 @@ Btw I won't sue you or anything if you violate this repo's license.
 | music      | ![mpd + ncmpcpp](https://www.musicpd.org/)                                                |
 | distro     | ![arch](archlinux.org)                                                                    |
 
-## <samp>Install & Setup</samp>
+## <samp>Quickstart</samp>
 **⚠ FOR USE ON ARCH-BASED ONLY!!! ⚠**
 <br>
 **Install `yay` before this**
