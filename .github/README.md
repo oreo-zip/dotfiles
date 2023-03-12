@@ -1,42 +1,53 @@
 [Back to @oreo-zip](https://github.com/oreo-zip)
 
-<h1 align="center">OREO ZIP's Dots</h1>
-<p align="center">For use of <b>any kind</b>.</p>
+<h1 align="center">Lot-o-box</h1>
+<p align="center">My oh My.</b>.</p>
 
-# Hello there, friend!
-These are my rices! All from different DEs, WMs, and OSes
 
-w/ The GNU GPL-2.0 'cus 3.0 makes no sense
-
-Please feel free to steal any code, I would use GitLab if I didn't want people to steal it. 
-# Rices
-**Rice TL;DR:** Ricing is an old term for making a car look ***really cool and personalized***, and the linux community took it one step farther. To computers. Now we have subreddits, dedicated to ricing, and I will not write their names because a lot of very smart kids may look at this - like me (Yes I'm very young; get over it)
-<h1 align="center">File Trials</h1>
-<p align="center">Yup. The good ol' first trial at files for miles. Rhyming aside, this is my first MAJOR rice. Major in meaning has a GitHub branch and has been in active development for more than three days. WIP</p>
-
-<div align="center">"File Trials" Preview here</div>
-
-# Bug reports
-When reporting bugs, please make sure to use this format
-
-_Title:_
-<br>
-[Rice Name] Issue
-
-_Body:_
-<br>
-**Expected Behavior**
-<br>
-Expected Behavior
-
-**Actual Behavior**
-<br>
-Actual Behavior
-
-**Media**
-<br>
-PNG, JPEG, GIF, MP4, or MOV file
-
-**Notes**
-<br>
-Other Notes
+<table align="center">
+  <tr>
+    <td>
+      🔴 🟡 🟣
+      <br>
+      <h3>Good App Name Here</h3>
+      <code>🔍 Search</code>
+      <br>
+      <br>
+      🏠 <a href="https://github.com/oreo-zip/dotfiles/tree/openbox/#Lot-o-box"><b>Introduction</b></a>
+      <br>
+      <br>
+      💽 <a href="https://github.com/oreo-zip/dotfiles/tree/openbox/#Setup"><b>Installation and Setup</b></a>
+      <br>
+      <br>
+      ❓ <a href="https://github.com/oreo-zip/dotfiles/tree/openbox/#NAQ"><b>NAQ</b></a>
+      <br>
+      <br>
+      ‼️ <a href="https://github.com/oreo-zip/dotfiles/tree/openbox/bugs"><b>Bug Reporting</b></a>
+      <br>
+      <br>
+      😃 <a href="example.com"><b> Portal to Supercalafragilisticexpialidocious</b></a>
+    </td>
+    <td>
+    Hello! I'm OREO ZIP! I'm really a <18yo kid that found his way into computers, named Gavin!
+    <br>
+    I love to make rices so here is my rice, made in openbox!
+    <br>
+    Yes its cool, No its not childish
+    <br>
+    Get Over It. <b><i>Like right now!</i></b>
+    <br>
+    Anyways, aside from the drama, this is an openbox rice. I don't think you needed me to say that for you to know that..... I won't sue you If you violate the GPL-2.0 license because this is literally a bunch of configs that were made entirely from me staring at reddit for 40+ hours. I really did read it! (<i>Get it?</i> No? Ok that's fair.) Like and subscribe for a cook-- wait no wrong one; Star and share this repo if you like it and the other rices, voilate the license if you so choose to, I honestly don't care. Aaaaaaaaaaaannnnnd PEACE. Wait no still gotta show you content WAIT NOOOOOOOOOOOOOOOOOOOOOO!!!!
+    <br>
+    <br>
+    <table>
+      <tr>
+      <td>
+      wm
+      </td>
+      <td>
+      openbox
+      </td>
+    </table>
+    </td>
+  </tr>
+</table>
